@@ -1,0 +1,9 @@
+{
+  "phone": "12345654",
+  "email": "example@.com",
+  "address": {
+    "street": "Street 123",
+    "street2": "Nanxing",
+    "city": "Guangzhou"
+  }
+}
